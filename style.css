@@ -1,0 +1,45 @@
+h3{
+    background-color: burlywood;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(247, 172, 172, 0.386);
+    color:rgb(232, 222, 204) ;
+}
+
+
+
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px rgb(247, 172, 172);
+   
+}
+
+
+.note{
+
+    font-size: 15px;
+    color:rgb(232, 222, 204) ;
+    font-weight: bolder;
+}
+
+
+
+.copyright_footer{
+
+    position: fixed;
+    color:white;
+    bottom:0;
+    width: 100%;
+    background-color: rgb(234, 189, 189);
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+
+    border: 5px solid rgb(234, 124, 124);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(54, 5, 189);
+
+}
